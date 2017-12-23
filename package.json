@@ -1,0 +1,19 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESTFUL todoListApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"Test Message\"",
+    "start": "nodemon server.js"
+  },
+  "author": "BSS",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.14.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7"
+  }
+}
